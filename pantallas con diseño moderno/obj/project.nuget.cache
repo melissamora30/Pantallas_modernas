@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pZO/RnmkXzEjVzsC6dz1OA1gwmUI0zqFc964ql0Rg8OLxxrQ4H1cNavb8MK8raHQZc0Wo7oX6vbOvJ61jZrKWw==",
+  "dgSpecHash": "1lm3KubUbL4w6IrfTMo1iu1i12Ued3vNwS59nrCvrYiLP92SC7VmhFr0HptDwDluWg/kSp1UIxTEnZRcVe0ZPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yurim\\OneDrive\\Documents\\Universidad\\SEMESTRE 4\\HERR DE PROGRAMACION III\\pantallas modernas\\pantallas con diseño moderno\\pantallas con diseño moderno\\Pantallas_Sistema_facturación.csproj",
+  "projectFilePath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Pmelissa\\pantallas con diseño moderno\\Pantallas_Sistema_facturación.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\yurim\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
-    "C:\\Users\\yurim\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\yurim\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\willi\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

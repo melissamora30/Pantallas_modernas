@@ -145,19 +145,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yurim\\.nuget\\packages\\": {}
+    "C:\\Users\\willi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yurim\\OneDrive\\Documents\\Universidad\\SEMESTRE 4\\HERR DE PROGRAMACION III\\pantallas modernas\\pantallas con diseño moderno\\pantallas con diseño moderno\\Pantallas_Sistema_facturación.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Escritorio\\Pmelissa\\pantallas con diseño moderno\\Pantallas_Sistema_facturación.csproj",
       "projectName": "Pantallas_Sistema_facturación",
-      "projectPath": "C:\\Users\\yurim\\OneDrive\\Documents\\Universidad\\SEMESTRE 4\\HERR DE PROGRAMACION III\\pantallas modernas\\pantallas con diseño moderno\\pantallas con diseño moderno\\Pantallas_Sistema_facturación.csproj",
-      "packagesPath": "C:\\Users\\yurim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yurim\\OneDrive\\Documents\\Universidad\\SEMESTRE 4\\HERR DE PROGRAMACION III\\pantallas modernas\\pantallas con diseño moderno\\pantallas con diseño moderno\\obj\\",
+      "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Pmelissa\\pantallas con diseño moderno\\Pantallas_Sistema_facturación.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\Pmelissa\\pantallas con diseño moderno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yurim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -177,6 +177,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -207,7 +212,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
